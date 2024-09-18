@@ -1,4 +1,4 @@
-### Hi there 👋 ![Noman Alam](https://github.com/nomanalam7/nomanalam7/blob/main/LinkedIn%20banner.png)
+### Hi there 👋 ![Noman Alam](https://github.com/nomanalam7/nomanalam7/blob/main/Black and  White Gradient Personal LinkedIn Banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F70000&width=450&lines=Front-End+Developer!)](https://git.io/typing-svg)
 
